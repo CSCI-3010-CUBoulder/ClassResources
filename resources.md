@@ -1,4 +1,6 @@
-Note! This is not a complete reference guide but should provide you some pointers on where to get started on some subjects that we cover. If you want more resources for a particular subject, post your request on Piazza and we'll add more to this list!
+#### Note! This is not a complete reference guide but should provide you some pointers on where to get started on some subjects that we cover. If you want more resources for a particular subject, post your request on Piazza and we'll add more to this list!
+
+
 Compiling and Makefiles
 --------------------
 
