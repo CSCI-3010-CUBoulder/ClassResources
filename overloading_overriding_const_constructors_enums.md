@@ -4,17 +4,35 @@ Overloading & overriding
 
 Overloading - when you have multiple functions with the same name
 
+- ##### Function Overloading
 ```c++
 void Donate(Book b);
 void Donate(Book b, int copies);
 ```
 
-overriding - providing a new version of some function with a specific signature
-
+- ##### Operator Overloading
 ```c++
 bool operator==(const Book & other);
 Book operator+(const Book & other);
 ```
+
+overriding - providing a new version of some function with a specific signature
+```c++
+class A {
+    public:
+    void print(){
+        std::cout << "This is the parent class" << std::endl;
+    }
+}
+
+class B: public A{
+    public:
+    void print(){ // overriding function
+        std::cout << "This is the child class" << std::endl;
+    }
+}
+```
+
 
 const
 -----
