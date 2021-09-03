@@ -33,3 +33,15 @@ Terminal & bash
 [__bash guide focusing more on scripting__](https://guide.bash.academy/)
 
 [__installing Windows Subsystem for Linux__](examples/WSL/instructions.md)
+
+Enums
+-----
+
+[__enums__](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#S-enum)
+
+[__enum class vs. enum (stack overflow)__](https://stackoverflow.com/questions/18335861/why-is-enum-class-preferred-over-plain-enum)
+
+C++ Errors
+-------
+
+[__compiler, linker, run-time errors__](https://www.cs.bu.edu/teaching/cpp/debugging/errors/)
