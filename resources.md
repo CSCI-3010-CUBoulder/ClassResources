@@ -23,3 +23,13 @@ Structs and Objects
 -----------------
 
 [__structs and objects syntax__](examples/structs_objs_declarations.md)
+
+Terminal & bash
+---------------------
+[__what is terminal?__](https://askubuntu.com/questions/38162/what-is-a-terminal-and-how-do-i-open-and-use-it)
+
+[__bash commands reference__](https://courses.cs.washington.edu/courses/cse390a/14au/bash.html)
+
+[__bash guide focusing more on scripting__](https://guide.bash.academy/)
+
+[__installing Windows Subsystem for Linux__](examples/WSL/instructions.md)
