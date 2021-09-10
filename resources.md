@@ -45,3 +45,43 @@ C++ Errors
 -------
 
 [__compiler, linker, run-time errors__](https://www.cs.bu.edu/teaching/cpp/debugging/errors/)
+
+
+Version control & git
+----------------
+[__CVS vs. DVCS__](https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs)
+
+[__pros and cons of CVS and DCVS__](https://content.intland.com/blog/sdlc/the-needs-that-version-control-systems-serve)
+
+[__git cheat sheet__](https://www.atlassian.com/dam/jcr:8132028b-024f-4b6b-953e-e68fcce0c5fa/atlassian-git-cheatsheet.pdf)
+
+[__hello world for github__](https://guides.github.com/activities/hello-world/)
+
+[__about pull requests__](https://help.github.com/articles/about-pull-requests/)
+
+[__resolving merge conflicts__](https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/)
+
+
+Design Patterns (game programming blog)
+------------
+[__Singleton__](http://gameprogrammingpatterns.com/singleton.html)
+
+[__Flyweight__](http://gameprogrammingpatterns.com/flyweight.html)
+
+__Factory (without inheritance)__ -- look at notes in `design_patterns.md` after we go over them in class.
+
+[__Factory (example with inheritance)__](https://sourcemaking.com/design_patterns/factory_method/cpp/1)  
+
+[__Prototype__](http://gameprogrammingpatterns.com/prototype.html)
+
+[__Iterator (using)__](https://www.cprogramming.com/tutorial/stl/iterators.html)  
+
+[__Iterator (how to implement)__](https://stackoverflow.com/questions/8054273/how-to-implement-an-stl-style-iterator-and-avoid-common-pitfalls)
+
+
+Design Patterns & `static`
+-----------
+[__`static` wikipedia__](https://en.wikipedia.org/wiki/Static_(keyword))  
+
+
+__Singleton Example__ -- Can be found in lecture 11 (Earth examples)
