@@ -95,9 +95,23 @@ For an example `.travis.yml` file, see the [demo repo in the course organization
 [__Travis embedding status icons__](https://docs.travis-ci.com/user/status-images/)
 
 
-
 Unit Testing
 -----------
 [__Catch2 tutorial__](https://github.com/catchorg/Catch2/blob/master/docs/tutorial.md#top)
 
 [__Catch2 Assertion Macros__](https://github.com/catchorg/Catch2/blob/master/docs/assertions.md#top)
+
+
+Inheritance
+----------
+[__inheritance in c++ (lectures from Univ. of Washington)__](https://courses.cs.washington.edu/courses/cse333/18su/lectures/18-c++-inheritance.pdf)  
+
+[__part 2 inheritance from UW__](https://courses.cs.washington.edu/courses/cse333/18su/lectures/19-c++-casts.pdf) 
+
+Templating
+--------
+
+[__Templating wikipedia__](https://en.wikipedia.org/wiki/Template_(C%2B%2B))  
+
+[__stack overflow about why templated functions/classes' implementations go in header files__](https://stackoverflow.com/questions/1724036/splitting-templated-c-classes-into-hpp-cpp-files-is-it-possible)
+
