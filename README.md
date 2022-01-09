@@ -1,7 +1,7 @@
 CSCI 3010: Programming Project Workshop: Object-Oriented Programming
 =====================
 
-See the [Canvas website](https://canvas.colorado.edu/courses/75527) for the syllabus, assignments, and in-class activities materials.  
+See the [Canvas website](https://canvas.colorado.edu/courses/80447) for the syllabus, assignments, and in-class activities materials.  
   
 We will be intermittently adding notes and other resources to this repository to help support the material that we cover in this class, which we will frequently link to from the canvas website. 
 
