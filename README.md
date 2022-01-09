@@ -1,4 +1,4 @@
-CSCI 3010: Programming Project Workshop: Object-Oriented Programming -- Fall 2021
+CSCI 3010: Programming Project Workshop: Object-Oriented Programming
 =====================
 
 See the [Canvas website](https://canvas.colorado.edu/courses/75527) for the syllabus, assignments, and in-class activities materials.  
