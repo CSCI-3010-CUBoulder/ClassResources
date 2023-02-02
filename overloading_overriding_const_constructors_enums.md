@@ -14,6 +14,7 @@ void Donate(Book b, int copies);
 ```c++
 bool operator==(const Book & other);
 Book operator+(const Book & other);
+std::ostream & operator<<(std::ostream & os, const Book & b);
 ```
 
 overriding - providing a new version of some function with a specific signature
